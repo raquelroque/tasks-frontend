@@ -38,6 +38,7 @@ public class Todo {
 		this.dueDate = dueDate;
 	}
 
+	
 	@Override
 	public String toString() {
 		return "Todo [id=" + id + ", task=" + task + ", dueDate=" + dueDate + "]";
